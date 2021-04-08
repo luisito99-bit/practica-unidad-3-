@@ -13,3 +13,11 @@ body{
 	color:blue;
 	text-align:center; 
 }
+#imagen1{
+	max-width: 44%;
+	height: auto;
+	margin: 20px
+	padding: 5px;
+	display: block;
+	margin: auto;
+}
